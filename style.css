@@ -1,0 +1,26 @@
+#image {
+	width: 300px;
+	height: auto;
+	max-height: 500px;
+	margin: 30px;
+}
+
+#breedList {
+	width: 33%;
+	float: right;
+}
+
+#breedList p {
+	display: inline-block;
+	margin-right: 5px;
+}
+
+#leftSide {
+	position: fixed;
+	float: left;
+	width: auto;
+}
+
+#msg {
+	display: inline-block;
+}
